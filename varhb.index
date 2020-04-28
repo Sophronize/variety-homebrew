@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+    <info>
+        <name>Variety Homebrew items</name>
+        <description>A variety of homebrew items that I use for my Aurora. I DO NOT OWN ANY OF THE CONTENT IN THESE.</description>
+        <update version="0.0.0">
+            <file name="varhb.index" url="" />
+        </update>
+        </info>
+        <files>
+            <!--Races-->
+            <!--Class-->
+            <!--Archetype-->
+            <!--Backgrounds-->
+            <!--Feats-->
+            <!--Sources-->
+            <file name="sources.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/sources.xml" />
+
+        </files>
+</index>
