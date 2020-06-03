@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+    <info>
+        <name>Weapons</name>
+        <description/>
+        <author url="https://www.dandwiki.com/wiki/Anchor_(5e_Equipment)">DnD Wiki</author>
+        <update version="0.0.1">
+            <file url="https://github.com/Sophronize/variety-homebrew/blob/master/item-anchor.xml" name="item-anchor.xml"/>
+    </info>
     <element name="Anchor"  type="Weapon" source="dndwiki" id="ID_DNDWIKI_WEAPON_ANCHOR">
         <supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE,ID_INTERNAL_DAMAGE_TYPE_BLUDGEONING,ID_INTERNAL_WEAPON_PROPERTY_HEAVY,ID_INTERNAL_WEAPON_GROUP_CLUBS,ID_INTERNAL_WEAPON_PROPERTY_THROWN</supports>
         <description>
